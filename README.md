@@ -1,2 +1,2 @@
-# Lemorm
+# LemonORM
 Golang ORM
